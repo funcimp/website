@@ -1,7 +1,8 @@
 body {
     background-color: #262626;
     color: #fff;
-    padding: 20px;
+    padding: 40px 10px;
+    font-size: 20px;
 }
 
 section {
@@ -14,5 +15,5 @@ section {
 }
 
 .video {
-    max-height: 15px;
+    max-height: 20px;
 }
